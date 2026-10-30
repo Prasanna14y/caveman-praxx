@@ -1,5 +1,7 @@
 # Caveman PRAXX
 
+[![Caveman banner](./docs/assets/caveman-logo-banner.png)](https://docs.caveman.so/caveman)
+
 **Less noise. Clearer context. Focused AI coding workflows.**
 
 Caveman PRAXX is the PRAXX edition of the open-source Caveman toolkit, maintained
@@ -60,6 +62,8 @@ using it if you specifically need to run this repository's source.
 | [`docs/`](./docs/) | Architecture, configuration, references, and benchmarks |
 
 ## Documentation
+
+- [Caveman documentation — upstream guide](https://docs.caveman.so/caveman)
 
 - [Documentation index](./docs/README.md)
 - [Architecture](./docs/technical/architecture.md)
